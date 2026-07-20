@@ -1,14 +1,11 @@
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raulferraz85&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raulferraz85&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=raulferraz85&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulferraz85&layout=compact&theme=dracula&hide_border=false" alt="Linguagens mais usadas" />
 </div>
 
-###
+<br />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/raulferraz85/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=raulferraz85&color=bd93f9&style=flat-square" alt="Visitas ao perfil" />
 </div>
-
-###
