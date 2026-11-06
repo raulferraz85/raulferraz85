@@ -27,7 +27,7 @@ Desenvolvo soluções sob medida: sites institucionais, landing pages de alta co
 
 ---
 
-### 👾 Gráfico de Contribuições Animado
+
 
 ![Gráfico da Cobra](https://raw.githubusercontent.com/raulferraz85/raulferraz85/output/github-contribution-grid-snake.svg)
 
