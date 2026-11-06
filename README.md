@@ -17,12 +17,6 @@ Desenvolvo soluções sob medida: sites institucionais, landing pages de alta co
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### 📊 Minhas Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raulferraz85&show_icons=true&theme=tokyonight&cache_seconds=86400" width="48%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulferraz85&layout=compact&theme=tokyonight&cache_seconds=86400" width="48%" alt="Linguagens Mais Utilizadas" />
-</p>
----
 
 📬 **Entre em contato para projetos e orçamentos:**
 - 💬 **Email:** (raulferraz85@gmail.com)
