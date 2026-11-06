@@ -1,25 +1,28 @@
+# Olá, eu sou o Raul Vitor 👋
 
+🎓 **Estudante de Ciência da Computação - cesar shcool** | 💻 **Desenvolvedor Web & Software**
 
+Desenvolvo soluções sob medida: sites institucionais, landing pages de alta conversão, aplicativos e automações de sistemas.
+
+---
+
+### 🛠️ Linguagens e Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Minhas Estatísticas
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=raulferraz85&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raulferraz85&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=raulferraz85&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulferraz85&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens Principais" />
 </div>
 
+---
 
-
-###
-
-
-
-<div align="center">
-
-  <img src="https://profile-counter.glitch.me/raulferraz85/count.svg?"  />
-
-</div>
-
-
-
-###
+📬 **Entre em contato para projetos e orçamentos:**
+- 💬 **Email:** (raulferraz85@gmail.com)
+- 💼 **LinkedIn:** (www.linkedin.com/in/raul-ferraz-00a25a343)
